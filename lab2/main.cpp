@@ -1,10 +1,10 @@
 
-/*Í·ÎÄ¼ş°üº¬*/
+/*å¤´æ–‡ä»¶åŒ…å«*/
 #include<stdio.h>
 #include"user.h"
 
 
-/*Ö÷º¯Êı*/
+/*ä¸»å‡½æ•°*/
 int main() {
 	FILE* fp=NULL;
 	int chess[8][8] = { 0 };
